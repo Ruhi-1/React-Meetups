@@ -17,3 +17,5 @@ function MeetupItem(props) {
     </li>
   );
 }
+
+export default MeetupItem;
